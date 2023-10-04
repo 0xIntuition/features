@@ -1,6 +1,6 @@
 {
     "name": "Foundry",
-    "id": "intuition-foundry",
+    "id": "foundry",
     "version": "0.0.1",
     "description": "A feature that installs foundry toolkit",
     "options": {},
