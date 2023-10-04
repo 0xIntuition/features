@@ -1,0 +1,10 @@
+{
+    "name": "Foundry",
+    "id": "intuition-foundry",
+    "version": "0.0.1",
+    "description": "A feature that installs foundry toolkit",
+    "options": {},
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
