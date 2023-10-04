@@ -7,6 +7,6 @@ Installs Foundry toolkit as feature in dev container
 
 ```json
 "features": {
-    "ghcr.io/0xintuition/features/foundry:1.0": {}
+    "ghcr.io/0xintuition/features/foundry:1.0.0": {}
 }
 ```
